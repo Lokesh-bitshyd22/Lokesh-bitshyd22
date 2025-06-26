@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Lokesh Lakshminarayanan
 
-<!--
-**Lokesh-bitshyd22/Lokesh-bitshyd22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics & Computer Science undergraduate  
+🔬 Focused(currently) on neural PDE solvers using JAX and variational methods
 
-Here are some ideas to get you started:
+---
+## 📂 Selected Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [`hospital-db-sqlplus`](https://github.com/rTarunKumar-1/Database_Systems_Project):  
+  PL/SQL system for menu-driven insert, delete, update in a hospital database
+- ['floorplan-Maker'](https://github.com/Pranav-PJ/floor-plan-maker):
+  java based software for floorplan designing
+- ['Image-Interpolation']:([)](https://github.com/Lokesh-bitshyd22/BicubicImageInterpolation)
+  A very short project on image re-scaling using catmul-rom splines
+
+  note: all the above projects are part of my course evaluation 
