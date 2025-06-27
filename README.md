@@ -11,6 +11,6 @@
 - ['floorplan-Maker'](https://github.com/Pranav-PJ/floor-plan-maker):
   Java based software for floorplan designing
 - ['Image-Interpolation'](https://github.com/Lokesh-bitshyd22/BicubicImageInterpolation):
-  A very short project on image re-scaling using catmul-rom splines
+  A very short project on image re-scaling using catmul-rom splines in MATLAB
 
   note: all the above projects are part of my course evaluation 
