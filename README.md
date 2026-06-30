@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Lokesh Lakshminarayanan
 
 🎓 Mathematics & Computer Science undergraduate  
-🔬 Focused(currently) on neural PDE solvers using JAX and variational methods
 
 ---
 ## 📂 Selected Projects
