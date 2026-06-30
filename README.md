@@ -5,7 +5,8 @@
 ---
 ## 📂 Selected Projects
 
-- [`Tiger Language Parser and Intermediate Code Generator`](https://github.com/Lokesh-bitshyd22/Tiger-Compiler)
+- [`Tiger Language Parser and Intermediate Code Generator`](https://github.com/Lokesh-bitshyd22/Tiger-Compiler):
+  Built a compiler front-end for a subset of the Tiger programming language using Lex and Bison.
 - [`hospital-db-sqlplus`](https://github.com/rTarunKumar-1/Database_Systems_Project):  
   PL/SQL system for menu-driven insert, delete, update in a hospital database
 - [`floorplan-Maker`](https://github.com/Pranav-PJ/floor-plan-maker):
